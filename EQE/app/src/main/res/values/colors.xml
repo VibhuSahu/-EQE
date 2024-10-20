@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#4CAF50</color> <!-- Green accent for buttons -->
+    <color name="darkText">#333333</color>     <!-- Dark text for titles and result -->
+    <color name="lightGray">#F5F5F5</color>    <!-- Background color -->
+    <color name="white">#FFFFFF</color>        <!-- Card background -->
+
+</resources>
